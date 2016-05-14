@@ -17,6 +17,7 @@ hs_err_pid*
 # Build nonsense
 /build/
 /eclipse/
+/run/
 *.launch
 .settings
 .classpath
@@ -25,3 +26,4 @@ hs_err_pid*
 # Gradle
 !gradle/wrapper/gradle-wrapper.jar
 /.gradle/
+/bin/
