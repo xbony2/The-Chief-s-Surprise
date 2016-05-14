@@ -22,6 +22,7 @@ hs_err_pid*
 .settings
 .classpath
 .project
+#/bin/
 
 # Gradle
 !gradle/wrapper/gradle-wrapper.jar
